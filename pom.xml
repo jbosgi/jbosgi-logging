@@ -21,7 +21,7 @@
     <packaging>bundle</packaging>
 
     <version>1.0.2.Final-SNAPSHOT</version>
-  
+
     <!-- Parent -->
     <parent>
         <groupId>org.jboss.osgi</groupId>
@@ -34,7 +34,7 @@
         <connection>scm:git:git://github.com/jbosgi/jbosgi-logging.git</connection>
         <developerConnection>scm:git:git@github.com:jbosgi/jbosgi-logging.git</developerConnection>
         <url>http://github.com/jbosgi/jbosgi-logging</url>
-        <tag>1.0.1.Final</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <!-- Properties -->
