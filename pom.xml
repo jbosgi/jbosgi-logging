@@ -20,7 +20,7 @@
     <artifactId>jboss-osgi-logging</artifactId>
     <packaging>bundle</packaging>
 
-    <version>1.0.1.Final</version>
+    <version>1.0.2.Final-SNAPSHOT</version>
   
     <!-- Parent -->
     <parent>
